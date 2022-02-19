@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #FAACA8;
+  background-image: linear-gradient(19deg, #FAACA8 0%, #c4b9e8 100%);  
+  font-family: 'Montserrat', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

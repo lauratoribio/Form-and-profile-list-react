@@ -1,0 +1,38 @@
+.card {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 476px;
+    border: none;
+}
+
+.card__item {
+    text-align: left;
+    padding: 20px 20px;
+
+}
+
+.card__item--bg {
+    margin-left: -50px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 8px 32px 0 rgba(63, 63, 63, 0.37);
+}
+
+.card__title {
+    color: #FAACA8;
+    font-size: 22px;
+}
+
+.card__info {
+   font-weight: 600;
+   color: #5a5a5a;;
+}
+
+.card__img {
+    border-radius: 20px;
+}
